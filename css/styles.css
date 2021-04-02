@@ -1,0 +1,36 @@
+body {
+  background-color: #e7e6e1;
+}
+img {
+  background-color: black;
+  width: 340px;
+}
+h1 {
+  color: #1e212d;
+}
+h2 {
+  color: #1687a7;
+}
+h3{
+  color: #1687a7;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 3%;
+}
+.line{
+  border-style:none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 100%;
+
+}
+
+.address{
+  color: #0a043c;
+}
+.Achievements{
+  color: #0a043c;
+}
